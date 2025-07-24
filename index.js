@@ -18,3 +18,9 @@ function describeTemperature(fahrenheit) {
     console.log("very hot");
   }
 }
+
+
+const input = prompt("Enter temperature in Fahrenheit:");
+
+const fahrenheitTemp = Number(input);
+
